@@ -1,0 +1,4 @@
+Pipeline Development:
+
+
+RNA-Seq  ---> Clean (Trimming) --> Aligment(to index) --> Determinacion de SNP
