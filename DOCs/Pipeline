@@ -2,3 +2,14 @@ Pipeline Development:
 
 
 RNA-Seq  ---> Clean (Trimming) --> Aligment(to index) --> Determinacion de SNP
+
+
+
+
+References:
+
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC137901/    Genbank: AE014133
+
+https://www.sciencedirect.com/science/article/pii/S0022283611001859?via%3Dihub
+
+https://www.ncbi.nlm.nih.gov/pubmed/31545812
